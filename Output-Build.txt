@@ -1,0 +1,4 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: File Monitor, Configuration: Debug Any CPU ------
+1>  File Monitor -> D:\ProgramCreated\GitHub\C_Sharp\FileMonitor\File Monitor\File Monitor\bin\Debug\File Monitor.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
